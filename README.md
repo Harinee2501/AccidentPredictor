@@ -77,24 +77,23 @@ The model provides the following evaluation metrics:
 
 ---
 
-🌍 Project Impact
-1. Enhanced Road Safety
-
+## 🌍 Project Impact
+### **1. Enhanced Road Safety**
 By predicting accident severity, this project enables traffic authorities and policymakers to identify high-risk scenarios and implement safety measures proactively.
-2. Data-Driven Decisions
 
+### **2. Data-Driven Decisions**
 Provides valuable insights into the relationship between accident factors like weather, lighting, and road type, helping authorities prioritize infrastructure improvements.
-3. Real-Time Applications
 
+### **3. Real-Time Applications**
 The model can be integrated into navigation systems or traffic monitoring dashboards to alert drivers about potential accident risks, reducing the likelihood of severe incidents.
-4. Cost Savings
 
+### **4. Cost Savings**
 Early prediction of accident severity can reduce response times for emergency services, saving lives and minimizing economic losses due to traffic congestion and medical expenses.
-5. Public Awareness
 
+### 5. **Public Awareness**
 Offers educational opportunities to inform the public about accident causes, promoting safer driving behaviors and adherence to traffic regulations.
-6. Global Applicability
 
+### **6. Global Applicability**
 With suitable localization and additional features, this project can be deployed worldwide, addressing road safety concerns in diverse environments and saving lives globally.
 
 ## **🔮 Future Scope**  
