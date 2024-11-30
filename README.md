@@ -1,16 +1,16 @@
-# ** Road Accident Severity Prediction **
+# **Road Accident Severity Prediction**
 
-## ** Problem Statement **  
+## **Problem Statement**  
 Road accidents are a major public health issue, causing fatalities, injuries, and property damage worldwide. Predicting the severity of accidents based on key factors such as weather, lighting, and road conditions can help mitigate risks and improve road safety.  
 
-** Solution: **  
+**Solution:**  
 This project uses **machine learning** techniques to predict the severity of road accidents based on relevant features from historical data, providing actionable insights for traffic management and safety improvements.
 
 ---
 
-## ** Project Idea **  
+## **Project Idea**  
 
-### ** Features: **  
+### **Features:**  
 - **Predict Severity:** Classifies road accidents based on severity (e.g., minor, moderate, severe).  
 - **Factor Analysis:** Considers key factors like road type, weather, and driver experience to make predictions.  
 - **Balance Data:** Employs SMOTE (Synthetic Minority Oversampling Technique) to handle class imbalance.  
